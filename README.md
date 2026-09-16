@@ -32,4 +32,4 @@ java  -cp .:swiftbot.jar SimonSays
 
 ---
 
-**Scope, stated plainly:** 114 lines, one sitting, an introductory assignment. It's here as evidence of comfort with Java, concurrency primitives and embedded/hardware APIs — not as a portfolio piece. The substantial work is in [SticksNBoulders](https://github.com/kar-kit/SticksNBoulders) and [MemoAI](https://github.com/kar-kit/FYP26-Frontend).
+**Scope, stated plainly:** 114 lines, one sitting, an introductory assignment. It's here as evidence of comfort with Java, concurrency primitives and embedded/hardware APIs — not as a portfolio piece. The substantial work is in [SticksNBoulders](https://github.com/kar-kit/SticksNBoulders) and [MemoAI](https://github.com/kar-kit/MemoAI).
